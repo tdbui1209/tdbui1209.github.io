@@ -110,9 +110,6 @@ author:
   location         : "Haiphong, Vietnam"
   email            : tdbui1209@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tdbui1209@email.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tdbui1209"
