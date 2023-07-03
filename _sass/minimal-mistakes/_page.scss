@@ -224,6 +224,10 @@ body {
     }
 
     .page__title {
+      margin-top: 0;
+      line-height: 1;
+      font-family: "EB Garamond", serif;
+      font-weight: 500;
       font-size: $type-size-2;
 
       @include breakpoint($small) {
