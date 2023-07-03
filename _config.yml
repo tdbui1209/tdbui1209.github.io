@@ -281,14 +281,13 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  # _pages
   - scope:
       path: ""
-      type: portfolio
+      type: pages
     values:
       layout: single
       author_profile: true
-      share: true
 
 collections:
   portfolio:
