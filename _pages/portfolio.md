@@ -1,9 +1,13 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
+layout: collection
+title: Portfolio
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
+collection: portfolio
+entries_layout: grid
+classes: wide
 
 ---
 ## 📈 Data Science
