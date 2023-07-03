@@ -4,6 +4,8 @@ title: Portfolio
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
+redirect_from:
+  - /
 
 ---
 *Updated: 03/07/2023*
