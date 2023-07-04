@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 ## 📈 Data Science
 ### Hanoi Housing Prices
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/hanoi_housing_saleprices.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/hanoi_fix.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/category_dtype_hanoi_saleprice)
 
 In this project, I am going to clean a dataset about sale real estate in Hanoi, Vietnam. Then perform some feature engineer technique, EDA. Finally, predict the price of each home.
