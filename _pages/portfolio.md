@@ -14,6 +14,6 @@ toc_icon: "bookmark"
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/hanoi_fix.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/category_dtype_hanoi_saleprice)
 
-In this project, I am going to clean a dataset about sale real estate in Hanoi, Vietnam. Then perform some feature engineer technique, EDA. Finally, predict the price of each home.
+In this project, I am going to clean a dataset about real estate sales in Hanoi, Vietnam. I will then perform some feature engineering techniques and exploratory data analysis (EDA). Finally, I will create a model to predict the price of each home.
 
 <img src="https://tdbui1209.github.io/portfolio/images/hanoi_housing_saleprices.jpeg" width="580">{: .align-center}
