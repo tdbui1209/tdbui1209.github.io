@@ -27,7 +27,7 @@ In this project, I am going to clean a dataset about real estate sales in Hanoi,
 
 <img src="https://tdbui1209.github.io/portfolio/images/kaggle_wheat_detection_image.png" width="580">{: .align-center}
 
-Global Wheat Detection was a challenge on Kaggle that was held in 2020. Challengers had to detect wheat heads from outdoor images of wheat plants.
+[Global Wheat Detection](https://www.kaggle.com/competitions/global-wheat-detection) was a challenge on Kaggle that was held in 2020. Challengers had to detect wheat heads from outdoor images of wheat plants.
 
 <img src="https://tdbui1209.github.io/portfolio/images/ultralytics_yolov8_banned.png" width="580">{: .align-center}
 > YOLOv8 is the latest version of YOLO by Ultralytics. As a cutting-edge, state-of-the-art (SOTA) model, YOLOv8 builds on the success of previous versions, introducing new features and improvements for enhanced performance, flexibility, and efficiency. YOLOv8 supports a full range of vision AI tasks, including detection, segmentation, pose estimation, tracking, and classification. This versatility allows users to leverage YOLOv8's capabilities across diverse applications and domains.
