@@ -21,9 +21,9 @@ In this project, I am going to clean a dataset about real estate sales in Hanoi,
 ## 📡 Computer Vision
 ### Kaggle: Global Wheat Detection (YOLOv8)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/kaggle-global-wheat-detection.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/kaggle-global-wheat-detection.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/kaggle-Global-Wheat-Detection)
-[![View on Comet](https://img.shields.io/badge/Comet-View_on_GitHub-red?logo=Comet)](https://www.comet.com/tdbui1209/global-wheat-detection/view/oNIXlg7DF2XTWUIwF2jeytHyi/panels)
+[![View on Comet](https://img.shields.io/badge/Comet-View_on_Comet-red?logo=Comet)](https://www.comet.com/tdbui1209/global-wheat-detection/view/oNIXlg7DF2XTWUIwF2jeytHyi/panels)
 
 <img src="https://tdbui1209.github.io/portfolio/images/kaggle_wheat_detection_image.png" width="580">{: .align-center}
 Global Wheat Detection was a challenge on Kaggle that was held in 2020. Challengers had to detect wheat heads from outdoor images of wheat plants.
