@@ -46,10 +46,23 @@ Kuzushiji MNIST is a drop-in replacement for the MNIST dataset (28x28 grayscale,
 
 Hiragana ひらがな is a Japanese syllabary, part of the Japanese writing system, along with katakana カタカナ as well as kanji 漢字. 
 
-My hiragana and katakana hand writing 🤗🤗🤗🤗
+My hiragana and katakana hand writing 🤗🤗🤗
 <img src="https://tdbui1209.github.io/portfolio/images/japanese-handwriting.jpg" width="580">{: .align-center}
 
 This project is my baseline for further improvements. I hope you enjoy it!
 
 "千里の道も一歩から"
 > "Vạn sự khởi đầu nan"
+
+## 🌱 .NET framework
+
+### HiKaPratice - My Japanese alphabets practise application 🌸🌸🌸
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/HiKaPractice)
+
+As a self-learner and beginner of the Japanese language, I initially found it quite challenging to memorize the basic characters of both Hiragana and Katakana alphabets. Therefore, I decided to create this application to support my Japanese language learning journey. The app includes both alphabets for practice and a summary table to allow learners to self-assess their progress.
+<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice.png" width="580">{: .align-center}
+<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice2.png" width="580">{: .align-center}
+<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice3.png" width="580">{: .align-center}
+
+Perhaps in the future, I will also add a Kanji learning mode to the application. 🤗🤗🤗
