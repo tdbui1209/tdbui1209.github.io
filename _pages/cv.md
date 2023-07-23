@@ -29,9 +29,9 @@ toc_icon: "bookmark"
 
 ## 💻 Activities on IT field
 ### 🏆 Prize
-- 3rd prize in University-level undergraduate research 2022 - 2023
-- 1st prize in Company bankruptcy prediction (The 3rd annual interational data science & AI competition 2022)
-- Prospective prize in Data-centric AI competition 2021 (FPT Software)
+- **3rd prize** in University-level undergraduate research 2022 - 2023
+- **1st prize** in Company bankruptcy prediction (The 3rd annual interational data science & AI competition 2022)
+- **Prospective** prize in Data-centric AI competition 2021 (FPT Software)
 
 ### 🔬 Undergraduate research
 ***Xây dựng hệ thống nhận diện đám cháy sử dụng kỹ thuật học sâu (Building a fire detection system using deep learning techniques)***
@@ -90,3 +90,5 @@ Please visit my [portfolio](https://tdbui1209.github.io/portfolio/) for more det
   - ML: Scikit-learn, Tensorflow
   - Data wrangling: Pandas
   - Visualization: Matplotlib, Seaborn
+  - English: TOEIC 710
+  - Japanese: ...
