@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-[Download Resume](https://tdbui1209.github.io/files/CV_DA_FRESHER_BuiTungDuong.pdf){: .btn .btn--info}
+[Download CV](https://tdbui1209.github.io/files/CV_DA_FRESHER_BuiTungDuong.pdf){: .btn .btn--info}
 
 *Updated: 23/07/2023*
 
