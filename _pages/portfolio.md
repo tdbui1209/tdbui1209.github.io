@@ -54,6 +54,18 @@ This project is my baseline for further improvements. I hope you enjoy it!
 "千里の道も一歩から"
 > "Vạn sự khởi đầu nan"
 
+### Face recognition with InsightFace
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/Face-Recognition-With-InsightFace)
+
+<img src="https://tdbui1209.github.io/portfolio/images/cong-bo-het-dich-covid-19.jpg" width="580">{: .align-center}
+
+2021 was a terrible year for Vietnam, as COVID-19 surged in the southern provinces. It was also my second year of university, and during that time, I participated in undergraduate scientific research on the topic of "Identification of individuals wearing masks" in the hope of contributing a small effort to the fight against the pandemic. 
+
+<img src="https://tdbui1209.github.io/portfolio/images/identity-recognition-test.png" width="580">{: .align-center}
+
+**InsightFace** was a useful tool to begin developing an identity recognition system. It provides both face detection and face recognition for us.
+
 ## 🌱 .NET framework
 
 ### HiKaPratice - My Japanese alphabets practise application 🌸🌸🌸
