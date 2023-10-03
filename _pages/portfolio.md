@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 *Updated: 03/07/2023*
 
-## 📈 Data Science
+## 📈 Data Analysis
 ### Hanoi Housing Prices
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/hanoi_fix.html)
@@ -17,6 +17,12 @@ toc_icon: "bookmark"
 In this project, I am going to clean a dataset about real estate sales in Hanoi, Vietnam. I will then perform some feature engineering techniques and exploratory data analysis (EDA). Finally, I will create a model to predict the price of each home.
 
 <img src="https://tdbui1209.github.io/portfolio/images/hanoi_housing_saleprices.jpeg" width="580">{: .align-center}
+
+### League of Legends Diamond Ranked Games Analysis (10 minutes early game)
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/lol.html)
+
+<img src="https://tdbui1209.github.io/portfolio/images/image_lol.png" width="580">{: .align-center}
 
 ## 📡 Computer Vision
 ### Kaggle: Global Wheat Detection (YOLOv8)
