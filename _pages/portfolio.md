@@ -18,6 +18,18 @@ In this project, I am going to clean a dataset about real estate sales in Hanoi,
 
 <img src="https://tdbui1209.github.io/portfolio/images/hanoi_housing_saleprices.jpeg" width="580">{: .align-center}
 
+### Cookie Cats: Analyze A/B tests
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/cookie_cats.html)
+
+Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level.
+
+As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
+
+But where should the gates be placed? Initially the first gate was placed at level 30. In this project, we're going to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention.
+
+<img src="https://tdbui1209.github.io/portfolio/images/cookie-cats.png" width="580">{: .align-center}
+
 ### League of Legends Diamond Ranked Games Analysis (10 minutes early game)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://tdbui1209.github.io/portfolio/projects/lol.html)
