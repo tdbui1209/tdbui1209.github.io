@@ -86,16 +86,3 @@ This project is my baseline for further improvements. I hope you enjoy it!
 <img src="https://tdbui1209.github.io/portfolio/images/identity-recognition-test.png" width="580">{: .align-center}
 
 **InsightFace** was a useful tool to begin developing an identity recognition system. It provides both face detection and face recognition for us.
-
-## 🌱 .NET framework
-
-### HiKaPratice - My Japanese alphabets practise application 🌸🌸🌸
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tdbui1209/HiKaPractice)
-
-As a self-learner and beginner of the Japanese language, I initially found it quite challenging to memorize the basic characters of both Hiragana and Katakana alphabets. Therefore, I decided to create this application to support my Japanese language learning journey. The app includes both alphabets for practice and a summary table to allow learners to self-assess their progress.
-<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice.png" width="580">{: .align-center}
-<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice2.png" width="580">{: .align-center}
-<img src="https://tdbui1209.github.io/portfolio/images/HiKaPractice3.png" width="580">{: .align-center}
-
-Perhaps in the future, I will also add a Kanji learning mode to the application. 🤗🤗🤗
