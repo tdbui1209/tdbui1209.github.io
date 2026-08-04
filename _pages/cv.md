@@ -7,28 +7,32 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 toc_icon: "file-lines"
-last_modified_at: 2026-07-19
+last_modified_at: 2026-08-05
 ---
 
-[Download Resume (PDF)]({{ '/files/Resume_Python-Software-Engineer_Bui-Tung-Duong.pdf' | relative_url }}){: .btn .btn--primary}
+[Download Resume (PDF)]({{ '/files/Computer-Vision-Engineer-Bui-Tung-Duong.pdf' | relative_url }}){: .btn .btn--primary}
 
 ## Professional Summary
 
-Python Software Engineer with 2+ years of experience developing and maintaining test systems for camera-module manufacturing lines.
+Computer Vision and Software Engineer with **2+ years of full-time experience** and **one year of internship experience** in camera systems, computer vision, edge AI, and manufacturing software.
 
-Experienced in production-data processing, test automation, image processing, failure analysis, and integration with customer-defined algorithms. Delivered manufacturing software improvements with measurable impact, including an **80% reduction in initial failure-analysis reporting time**, **zero data rejections**, and estimated savings of **KRW 50 million per month**.
+Experienced in RAW Bayer processing, ISP preprocessing, image validation, algorithm integration, failure analysis, and high-volume production-data automation.
 
-Interested in Python software engineering, manufacturing test systems, computer vision, and software test automation for AI-driven products.
+Built and validated image-processing pipelines against customer-provided reference implementations with numerical deviation below \(10^{-9}\), while delivering automation solutions that reduced validation and analysis effort by up to **82%**.
+
+Hands-on experience in AI model training, ONNX and TensorRT deployment, NVIDIA Jetson edge inference, camera calibration, geometric transformations, stereo vision, and real-time computer-vision systems.
 
 ## Core Skills
 
 | Area | Technologies and experience |
 |---|---|
-| Programming | Python, MATLAB, SQL |
-| Tools and systems | Git, PowerShell, Bash, manufacturing test systems |
-| AI and computer vision | OpenCV, PyTorch, TensorFlow, YOLO, ArcFace |
-| Data | Pandas, data validation, production-data processing, visualization |
-| Engineering | Test automation, image processing, FACA, system integration |
+| Programming | Python, C++, MATLAB |
+| Computer vision and AI | OpenCV, PyTorch, TensorFlow, YOLO, InsightFace |
+| Camera systems | RAW Bayer processing, ISP preprocessing, pinhole camera model, camera calibration, lens-distortion correction |
+| Geometry and stereo vision | Coordinate transformations, homography, pose estimation, stereo calibration, rectification, disparity, depth reconstruction |
+| Edge AI | NVIDIA Jetson Nano, ONNX, TensorRT, FP32, FP16, INT8 |
+| Tools and systems | Git, PowerShell, manufacturing test systems |
+| Engineering | Algorithm integration, numerical validation, image processing, failure analysis, root-cause analysis |
 | English | TOEIC Speaking 140 |
 
 ## Work Experience
@@ -36,32 +40,74 @@ Interested in Python software engineering, manufacturing test systems, computer 
 ### LG Innotek Vietnam Haiphong
 
 **Test Software Engineer**  
-*June 2024 - Present · Haiphong, Vietnam*
+*January 2024 - Present · Haiphong, Vietnam*
 
-- Contribute to test systems for main, ultra-wide, and telephoto camera modules used in flagship smartphones.
-- Develop and maintain manufacturing-line test software, focusing on system stability and production-data integrity.
-- Integrate test systems with customer-defined algorithms, achieving result deviation below \(10^{-9}\).
-- Built image-processing tools for failure analysis, reducing initial FA report generation time by **80%**.
-- Implemented automated production-data validation, eliminating manual formatting errors and achieving **zero data rejections**.
-- Collaborate with production teams, engineering groups, and customers to deliver validated test data in real time.
+- Developed and maintained production test software for main, ultra-wide, and telephoto smartphone camera modules using Python, C++, and MATLAB, supporting projects from NPI builds through PVT ramp.
+- Processed RAW Bayer image data and integrated customer-defined image-processing and camera functional-test algorithms into high-volume manufacturing test flows.
+- Reproduced and validated reference algorithms in production software, achieving numerical deviation below \(10^{-9}\) for verified outputs.
+- Developed image-processing and automated validation tools that reduced initial failure-analysis reporting time by **80%**, validation cycle time by **60%**, and manual analysis effort by **82%**.
+- Investigated image and test-result anomalies by analyzing software behavior, preprocessing parameters, configuration, equipment conditions, and camera-module characteristics.
+- Communicated technical findings and root-cause conclusions with production, process, equipment, and customer teams, translating complex result differences into actionable corrective actions.
 
 ### Universal Scientific Industrial Vietnam
 
-**SFIS Engineer**  
-*January 2024 - June 2024 · Haiphong, Vietnam*
+**SFIS Engineer Intern**  
+*July 2023 - December 2023 · Haiphong, Vietnam*
 
-- Supported Shop Floor Information System operations and data synchronization across manufacturing systems.
-- Developed internal tools to improve data flow, automation, and operational efficiency.
-- Worked directly with manufacturing IT workflows and production-system integrations.
+- Supported SFIS operations and investigated production-data synchronization issues across interconnected manufacturing systems.
+- Developed internal utilities to automate data processing and improve system-to-system data flow.
+- Automated SCP-based data synchronization during off-peak periods, replacing manual synchronization and reducing production waiting time.
+- Worked with manufacturing databases, system logs, and shop-floor applications to support production workflows and system integration.
 
 ### VNNet Haiphong
 
-**Software Engineer**  
-*June 2023 - December 2023 · Haiphong, Vietnam*
+**Software Engineer Intern**  
+*January 2023 - June 2023 · Haiphong, Vietnam*
 
-- Developed a real-time fire and smoke detection system using YOLOv5.
-- Deployed computer-vision inference on NVIDIA Jetson Nano edge devices.
-- Built an automated attendance system using face recognition and AI-camera APIs.
+- Collected and prepared image data, trained a YOLOv5 fire-and-smoke detection model, converted it from PyTorch `.pt` to ONNX and TensorRT, and benchmarked FP32, FP16, and INT8 inference on NVIDIA Jetson Nano based on latency, throughput, and mAP.
+- Integrated automatic fire alerts through phone notifications and on-site alarm systems; the solution was accepted for deployment at a packaging manufacturing company in Hung Yen.
+- Developed a configurable face-recognition attendance application using Hanet AI-camera APIs for identity recognition, event handling, and attendance recording.
+
+## Selected Projects
+
+### Camera Geometry Toolkit
+
+[View source code](https://github.com/tdbui1209/camera-geometry-toolkit){: .btn .btn--info}
+
+*July 2026 - August 2026*
+
+A reproducible computer-vision toolkit covering pinhole-camera geometry, monocular calibration, stereo vision, and geometric transformations.
+
+- Implemented pinhole-camera projection, coordinate transformations, monocular calibration, lens-distortion correction, planar homography, and ArUco-based pose estimation.
+- Built a stereo-vision pipeline covering stereo calibration, image rectification, disparity estimation, and depth reconstruction.
+- Structured the Python implementation as reusable modules with runnable demos and validation scripts.
+- Developed OpenCV demos for environment verification and 3D-to-2D projection.
+
+### Open-Set Face Recognition
+
+[View source code](https://github.com/tdbui1209/Face-Recognition-With-InsightFace){: .btn .btn--info}
+
+*December 2021 - January 2022*
+
+An open-set face-identification application built with InsightFace.
+
+- Built a face-identification pipeline covering face detection, alignment, 512-dimensional embedding extraction, gallery enrollment, and cosine-similarity matching.
+- Implemented similarity-threshold rejection to classify identities outside the enrolled gallery as unknown.
+- Organized the application into reusable enrollment and inference workflows for adding and recognizing identities.
+
+### Global Wheat Detection
+
+[View project](https://tdbui1209.github.io/portfolio/projects/kaggle-global-wheat-detection.html){: .btn .btn--info}
+
+*July 2023*
+
+An object-detection project for identifying wheat heads in outdoor agricultural images.
+
+- Trained and evaluated an object-detection model for detecting wheat heads in outdoor agricultural images.
+- Implemented dataset preprocessing, augmentation, training, inference, and prediction visualization.
+- Analyzed false positives, missed detections, object-scale variation, and image-domain differences across datasets.
+
+[View more projects]({{ '/portfolio/' | relative_url }}){: .btn .btn--primary}
 
 ## Awards
 
@@ -69,33 +115,18 @@ Interested in Python software engineering, manufacturing test systems, computer 
 
 *March 2026*
 
-Developed a system that directly interfaces with UAVI inspection equipment, accelerating the cosmetic-inspection process and reducing the risk of defective products escaping detection.
+- Developed a direct software interface between the production test system and automated visual-inspection equipment.
+- Accelerated inspection feedback and reduced the risk of defective units escaping downstream detection.
+- Delivered estimated annual cost savings of approximately **KRW 600 million**.
 
-**Estimated impact: approximately KRW 50 million saved per month.**
+### Data-Centric AI Competition 2021 — Prospective Prize
 
-## Selected Projects
+*FPT Software · December 2021*
 
-### Camera-module Failure Analysis Tool
-
-An image-processing tool designed to accelerate initial failure analysis in camera-module manufacturing.
-
-**Impact:** Reduced initial FA report generation time by approximately **80%**.
-
-### Automated Production-data Validation
-
-A validation pipeline that detects formatting and structural errors before production data is delivered to downstream systems and customers.
-
-**Impact:** Eliminated manual formatting errors, achieved **zero data rejections**, and supported real-time delivery.
-
-### Fire and Smoke Detection on Edge Devices
-
-Developed a YOLOv5-based fire and smoke detection system and deployed it on NVIDIA Jetson Nano for real-time inference.
-
-### Face Recognition Attendance System
-
-Built an automated attendance and timekeeping system using face recognition, mask-aware data augmentation, and AI-camera APIs.
-
-[View more projects]({{ '/portfolio/' | relative_url }}){: .btn .btn--info}
+- Developed a face-mask wearing-condition detection pipeline for the COVID-19 context.
+- Improved data quality through augmentation, incorrect-label correction, bounding-box refinement, synthetic data generation, and model-assisted data collection.
+- Increased model performance from **0.64 to 0.91 mAP@0.5:0.95**.
+- Ranked **2nd in the student leaderboard** and **11th overall**.
 
 ## Education
 
@@ -105,13 +136,6 @@ Built an automated attendance and timekeeping system using face recognition, mas
 *October 2020 - April 2024*
 
 - GPA: **3.61/4.00**
-- Third Prize, University-level Undergraduate Research, 2022-2023
-
-## Earlier Achievements
-
-- **First Prize** — Company Bankruptcy Prediction, International Data Science & AI Competition 2022
-- **Prospective Prize** — Data-centric AI Competition 2021, FPT Software
-- Participated in MLOps Marathon 2023, AI4VN, Zalo AI Challenge, and Shopee Code League
 
 ## Contact
 
